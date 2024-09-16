@@ -1,0 +1,24 @@
+.bg
+{
+    background-color: pink;
+    border-radius: 5px;
+}
+.container
+{
+    display: flex;
+    align-items: baseline;
+    justify-content: center;
+}
+img
+{
+    max-width: 300px;
+    max-height: 250px;
+}
+.box {
+    color: white;
+    padding: 20px;
+    text-align: center;
+    flex: 1;
+    margin: 0 10px;
+    list-style: none;
+}
